@@ -1,23 +1,6 @@
 #<!DOCTYPE html>
 
 
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>موقعي للألعاب</title>  
-    <style>
-        body { font-family: 'Tajawal', sans-serif; text-align: center; margin: 0; padding: 0; background: #f4f4f4; color: #333; }
-        header { background: #222; color: white; padding: 20px; font-size: 24px; }
-        nav { background: #444; padding: 15px; display: flex; justify-content: center; }
-        nav a { color: white; text-decoration: none; margin: 15px; font-size: 18px; transition: 0.3s; }
-        nav a:hover { color: #ffcc00; }
-        .section { padding: 50px; background: white; margin: 20px; border-radius: 10px; box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1); }
-        footer { background: #222; color: white; padding: 20px; font-size: 14px; margin-top: 20px; }
-        .btn { background: #ffcc00; padding: 10px 20px; text-decoration: none; color: #222; border-radius: 5px; transition: 0.3s; }
-        .btn:hover { background: #e6b800; }
-    </style>
-</head>
-<body>
-    <header>
         <h1>مرحبًا بك في موقع الألعاب</h1>
     </header>
     <nav>
@@ -160,6 +143,23 @@
 </body>
 </html>
 
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>موقعي للألعاب</title>  
+    <style>
+        body { font-family: 'Tajawal', sans-serif; text-align: center; margin: 0; padding: 0; background: #f4f4f4; color: #333; }
+        header { background: #222; color: white; padding: 20px; font-size: 24px; }
+        nav { background: #444; padding: 15px; display: flex; justify-content: center; }
+        nav a { color: white; text-decoration: none; margin: 15px; font-size: 18px; transition: 0.3s; }
+        nav a:hover { color: #ffcc00; }
+        .section { padding: 50px; background: white; margin: 20px; border-radius: 10px; box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1); }
+        footer { background: #222; color: white; padding: 20px; font-size: 14px; margin-top: 20px; }
+        .btn { background: #ffcc00; padding: 10px 20px; text-decoration: none; color: #222; border-radius: 5px; transition: 0.3s; }
+        .btn:hover { background: #e6b800; }
+    </style>
+</head>
+<body>
+    <header>
 <html lang="ar" dir="rtl">
 <head>
     <meta charset="UTF-8">
